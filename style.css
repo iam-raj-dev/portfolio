@@ -8,6 +8,14 @@ body{
   font-family: 'geist', monospace;
   
 }
+@font-face {
+  font-family: inst;
+  src: url('https://fonts.gstatic.com/s/instrumentserif/v5/jizBRFtNs2ka5fXjeivQ4LroWlx-6zsTjmbI.woff2') format('woff2');
+}
+@font-face {
+  font-family: geist;
+  src: url('https://fonts.gstatic.com/s/geistmono/v5/or3nQ6H-1_WfwkMZI_qYFrMdmgPn.woff2') format('woff2');
+}
 .main{
   height: 580px;
   width: 100%;
